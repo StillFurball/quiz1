@@ -12,11 +12,9 @@ const pages = {
         title: 'Profile',
         content: `
             <h1>About Me</h1>
-            <img src="https://media.licdn.com/dms/image/v2/D4E03AQHuf1EXCQEvsw/profile-displayphoto-scale_400_400/B4EZh5lpIBGYAo-/0/1754386569180?e=1761782400&v=beta&t=eVbWgGotJE6tPapOIgeNwm0TBT1J-Q4COY3N43bT5Dg" alt="Picture of me" 
+            <img src="/src/lol.jpg" alt="Picture of me" 
              style="width:250px; height:250px; object-fit:cover; border-radius:60%; display:block; margin:0 auto;">
             <p><strong>Name:</strong> Rafi Attar Maulana</p>
-            <p><strong>Hobby:</strong> Gaming</p> 
-            <p><strong>Height:</strong> 1.7 m</p>
             <p><strong>Institution:</strong> Institut Teknologi Sepuluh Nopember</p>
             <p>
                 <a href="https://www.linkedin.com/in/rafi-attar-maulana-002b98324/" 
