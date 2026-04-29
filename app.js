@@ -12,7 +12,7 @@ const pages = {
         title: 'Profile',
         content: `
             <h1>About Me</h1>
-            <img src="/src/lol.jpg" alt="Picture of me" 
+            <img src="src/lol.jpg" alt="Picture of me" 
              style="width:250px; height:250px; object-fit:cover; border-radius:60%; display:block; margin:0 auto;">
             <p><strong>Name:</strong> Rafi Attar Maulana</p>
             <p><strong>Institution:</strong> Institut Teknologi Sepuluh Nopember</p>
